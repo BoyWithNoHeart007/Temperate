@@ -15,5 +15,5 @@ main(){
     
 	} 
   
-    printf("Number of digits: %d", a);
+    printf("Number of digits: %i", a);
 }
